@@ -7,7 +7,7 @@
 import { MongoClient } from 'mongodb';
 
 // Replace the uri string with your connection string.
-const uri = 'mongodb+srv://Frexx23:UEKN38HkH9IiG9oV@atlascluster.17cfbg9.mongodb.net/';
+const uri = '';
 
 const client = new MongoClient(uri);
 
