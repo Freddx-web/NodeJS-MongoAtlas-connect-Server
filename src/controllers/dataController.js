@@ -7,7 +7,7 @@ import bcrypt from "bcryptjs";
 import { MongoClient } from 'mongodb';
 
 // URL Mongo Atlas
-const uri = 'mongodb+srv://Frexx23:UEKN38HkH9IiG9oV@atlascluster.17cfbg9.mongodb.net/';
+const uri = '';
 
 // MongoClient
 const client = new MongoClient(uri);
